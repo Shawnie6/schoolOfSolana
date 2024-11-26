@@ -38,7 +38,7 @@ Below is a list of few ideas to get you started:
 - **Blog**
 - **Voting** ([D21 - Janeček method](https://www.ih21.org/en/guidelines))
 - **DeFi**
-    - Crowdfunding
+    - campaign
     - Raffles
     - Escrow
     - Tipping
