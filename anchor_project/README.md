@@ -74,7 +74,7 @@ Once you have deployed the smart contract using `anchor deploy`, you can verify 
 
 Here is a visual representation of the steps described above:
 
-![Verify Smart Contract](./campaigning/images/solana_explorer.png)
+![Verify Smart Contract](./images/solana_explorer.png)
 
 ## 🛠 Running Tests on Localnet
 
