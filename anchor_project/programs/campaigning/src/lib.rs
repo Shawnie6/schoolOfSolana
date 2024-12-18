@@ -2,7 +2,7 @@
 use anchor_lang::prelude::*;
 use anchor_lang::solana_program::entrypoint::ProgramResult;
 
-declare_id!("5g4EKu74z9AetATqR7LEPfMQwZbQEKGsRJBSxmR6zTLM");
+declare_id!("53Y1NZRo1crcxmF2Pq3Gbttzpmt3ykiZy4zHhBpYVjb1");
 
 #[program]
 pub mod campaigning {

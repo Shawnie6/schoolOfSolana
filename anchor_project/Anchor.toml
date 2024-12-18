@@ -4,15 +4,15 @@
 resolution = true
 skip-lint = false
 
-[programs.devnet]
-campaigning = "5g4EKu74z9AetATqR7LEPfMQwZbQEKGsRJBSxmR6zTLM"
+[programs.Localnet]
+campaigning = "53Y1NZRo1crcxmF2Pq3Gbttzpmt3ykiZy4zHhBpYVjb1"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "https://api.devnet.solana.com"
-wallet = "keypair.json"
+cluster = "Localnet"
+wallet = "~/.config/solana/id.json"
 
 [scripts]
 test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
